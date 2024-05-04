@@ -1,4 +1,4 @@
-# CodePath Compass Project Proposal Summary
+# CodePath Compass Project Proposal
 
 Welcome to the CodePath Compass project proposal summary. CodePath Compass is a web application aimed at guiding individuals interested in technology careers to discover personalized learning paths based on their unique personalities. Here's a brief overview of our proposal:
 
